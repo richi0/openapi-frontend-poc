@@ -1,4 +1,4 @@
-# OpenAPI Backend POC
+# OpenAPI Frontend POC
 
 ## Goals
 
